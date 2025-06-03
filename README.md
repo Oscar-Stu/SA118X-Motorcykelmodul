@@ -8,4 +8,5 @@ Modellen är framtagen för konceptutveckling och är inte avsedd för tillverkn
 
 ---
 
-© 2025, Oscar Sturebrant & Erik Åström, KTH
+© 2025, Oscar Sturebrant & Erik Åström. 
+Examensarbete vid Kungliga Tekniska högskolan (KTH)
